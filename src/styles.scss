@@ -7,33 +7,30 @@
 
   button {
     margin: 15px;
+    height: 9em;
+    width: 9em;
     border-radius: 5px;
     font-size: 18px;
     text-transform: uppercase;
     border: 0;
     transition: all .3s ease-in-out;
+    color: white;
 
     &:hover {
-      opacity: .75;
+      box-shadow: 0px 4px 5px #333;
     }
   } 
 
   .azul {
     background: rgb(22, 145, 190);
-    height: 9em;
-    width: 9em;
   }
 
   .naranja {
     background: rgb(208, 101, 3);
-    height: 9em;
-    width: 9em;
   }
 
   .verde {
-    background: rgb(3 208 66);
-    height: 9em;
-    width: 9em;
+    background: #0b9c37;
   }
 }
 
