@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1615034673475,
+  "timestamp": 1615035511179,
   "index": "/territory-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/territory-pwa/favicon.ico",
         "/territory-pwa/index.html",
-        "/territory-pwa/main.31ba84a9403828d5ea91.js",
+        "/territory-pwa/main.1384696cca4cf1b33137.js",
         "/territory-pwa/manifest.webmanifest",
         "/territory-pwa/polyfills.00096ed7d93ed26ee6df.js",
         "/territory-pwa/runtime.7b63b9fd40098a2e8207.js",
@@ -52,8 +52,8 @@
     "/territory-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/territory-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/territory-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/territory-pwa/index.html": "6b792dcfb7aa7f1f50eb259f0d8e16d9a6ca274a",
-    "/territory-pwa/main.31ba84a9403828d5ea91.js": "a9afb1b13d28636db48156cee2ebd1f9562b7751",
+    "/territory-pwa/index.html": "153ffb9ac2c5d5d55a8418c63a3db54192805679",
+    "/territory-pwa/main.1384696cca4cf1b33137.js": "c3959eea7a5be835903530a9e4be9c072bfc0ef8",
     "/territory-pwa/manifest.webmanifest": "bba826bd055bf642e0683e68451bd22e5c0d26a4",
     "/territory-pwa/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/territory-pwa/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
