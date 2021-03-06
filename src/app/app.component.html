@@ -1,5 +1,8 @@
 <main>
   <div class="nav">
+
+    <!-- <input type="text" [(ngModel)]="terri"/> -->
+    
     <button class="azul" (click)="abrir('llegar')">
       Cómo llegar
     </button>
@@ -12,6 +15,6 @@
   </div>
 
   <iframe *ngIf="activeUrl == 'mapa'" src="https://territorios.elprincipal.info/mapa/vs023"></iframe>
-  <iframe *ngIf="activeUrl == 'llegar'" src="https://www.google.com/maps/dir//41.22045384736087,1.527276635169983"></iframe>
+  <iframe *ngIf="activeUrl == 'llegar'" src="https://www.google.com/maps/dir//41.2204538,1.5272766/@41.2203565,1.4573277,12z"></iframe>
   <iframe *ngIf="activeUrl == 'catastro'" src="https://www1.sedecatastro.gob.es/Cartografia/mapa.aspx?del=43&mun=165&refcat=6645618CF7664D&Xcentro=376492.871745542&Ycentro=4564263.50926439&from=OVCBusqueda&final=&pest=coordenadas&latitud=41.22033601096433&longitud=1.5265561091311075&gradoslat=&minlat=&seglat=&gradoslon=&minlon=&seglon=&x=&y=&huso=0&tipoCoordenadas=2&ZV=NO&ZR=NO"></iframe>
 </main>
