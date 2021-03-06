@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "start-pwa": "ng build --prod && http-server -p 8080 -c-1 dist/territorry-pwa",
-    "deploy": "ng build --prod --base-href=/territorry-pwa/",
+    "deploy": "ng build --prod --base-href=/territory-pwa/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
