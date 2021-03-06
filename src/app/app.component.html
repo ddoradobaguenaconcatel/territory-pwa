@@ -1,1 +1,15 @@
-<iframe src="https://territorios.elprincipal.info/t/vs023"> </iframe>
+<main>
+  <div class="nav">
+    <button class="azul" (click)="abrir(urls.llegar)">
+      Cómo llegar
+    </button>
+    <button class="naranja" (click)="abrir(urls.mapa)">
+      Ver Mapa
+    </button>
+    <button class="verde" (click)="abrir(urls.catastro)">
+      Catastro
+    </button>
+  </div>
+
+  <iframe [src]="activeUrl"> </iframe>
+</main>
