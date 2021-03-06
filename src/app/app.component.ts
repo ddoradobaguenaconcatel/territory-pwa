@@ -11,6 +11,7 @@ export class AppComponent {
   activeUrl = ''
 
   abrir (url: string) {
-    this.activeUrl = url;
+    if (url == 'llegar') window.open("https://www.google.com/maps/dir//41.2204538,1.5272766/@41.2203565,1.4573277,12z");
+    else this.activeUrl = url;
   }
 }
